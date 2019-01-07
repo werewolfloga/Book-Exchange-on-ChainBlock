@@ -1,0 +1,43 @@
+[
+  {
+    "id": 0,
+    "bookname": "他改变了中国：江泽民传",
+    "picture": "images/biography.jpeg",
+    "booktype": "biography",
+    "location": "Guangzhou"
+  },
+  {
+    "id": 1,
+    "bookname": "他改变了中国：江泽民传",
+    "picture": "images/biography.jpeg",
+    "booktype": "biography",
+    "location": "Beijing"
+  },
+  {
+    "id": 2,
+    "bookname": "西游记",
+    "picture": "images/novel.jpeg",
+    "booktype": "novel",
+    "location": "Xi'an"
+  },
+  {
+    "id": 3,
+    "bookname": "西游记",
+    "picture": "images/novel.jpeg",
+    "booktype": "novel",
+    "location": "Dongguan"
+  },
+  {
+    "id": 4,
+    "bookname": "五年高考三年模拟",
+    "picture": "images/reference_book.jpeg",
+    "booktype": "reference book",
+    "location": "Foshan"
+  },
+  {
+    "id": 5,
+    "bookname": "五年高考三年模拟",
+    "picture": "images/reference_book.jpeg",
+    "booktype": "reference book",
+    "location": "Zhongshan"
+  },
